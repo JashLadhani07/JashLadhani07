@@ -1,7 +1,7 @@
 # Hey, I'm Jash Ladhani  
 
 I'm a **3rd-year Computer Engineering student** at Mukesh Patel School of Technology, focused on **backend engineering, data systems, and Generative AI**.  
-I enjoy building scalable, intelligent systems — from **RAG chatbots and LLM evaluation frameworks** to **AI-powered analytics platforms**.
+I enjoy building scalable, intelligent systems from **RAG chatbots and LLM evaluation frameworks** to **AI-powered analytics platforms**.
 
 ---
 
@@ -9,7 +9,7 @@ I enjoy building scalable, intelligent systems — from **RAG chatbots and LLM e
 - 💡 Passionate about **Generative AI**, **data engineering**, and **ML system design**.  
 - 🔍 Exploring **RAG architectures**, **LLM evaluation**, and **context optimization** for enterprise AI use cases.  
 - 🧠 Experienced with **Python, FastAPI, Streamlit, LangChain, and modern ML stacks**.  
-- 📄 Internship: *Data Engineering Intern @ Universal Electronics Inc.* — built an automation system for QA analytics.  
+- 📄 Internship: *Data Engineering Intern @ Universal Electronics Inc.*; built an automation system for QA analytics.  
 
 ---
 
@@ -59,4 +59,4 @@ I enjoy building scalable, intelligent systems — from **RAG chatbots and LLM e
 
 ---
 
-⭐️ *Always learning, building, and experimenting with GenAI systems that bridge research and real-world scale.*
+*Always learning, building, and experimenting with GenAI systems that bridge research and real-world scale.*
