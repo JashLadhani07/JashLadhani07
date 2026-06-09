@@ -18,14 +18,15 @@ I enjoy building scalable, intelligent systems from **RAG chatbots and LLM evalu
 - **[RAG Evaluation Framework](https://github.com/JashLadhani07/RAG-Evaluation-Chatbot.git)**  
   Evaluated GPT-3.5, Claude-3, and Gemini-Pro on multi-document QA with custom metrics for context efficiency and faithfulness.  
 
-- **[RAG Context-Aware Chatbot](https://github.com/JashLadhani07/RAG-Chatbot)**  
-  Built a Gemini API-powered chatbot with document chunking, persistent memory (AstraDB), and vector retrieval (ChromaDB).  
-
 - **[Box Office Revenue Prediction](https://github.com/JashLadhani07/box-office-revenue-prediction.git)**  
   Trained regression and ensemble models (Linear, Ridge, Lasso, XGBoost, Gradient Boosting, Random Forest) and performed hyperparameter tuning, achieving R² = 0.77; **published at DACS Conference 2025**.  
 
 - **[AlphaCross – MA Crossover Stock Platform](https://alpha-cross-an-ai-powered-moving-av.vercel.app/)**  
-  Full-stack backtesting app for NSE 500 stocks with AI-driven signal optimization and real-time metrics.  
+  Full-stack backtesting app for NSE 500 stocks with AI-driven signal optimization and real-time metrics.
+
+- **[RAG Context-Aware Chatbot](https://github.com/JashLadhani07/RAG-Chatbot)**  
+  Built a Gemini API-powered chatbot with document chunking, persistent memory (AstraDB), and vector retrieval (ChromaDB).  
+
 
 ---
 
